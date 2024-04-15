@@ -1,44 +1,44 @@
 {
     "1":{
-        "titulo": "titulo1",
-        "correta": "resposta1",
-        "errada-1": "resposta2",
-        "errada-2": "resposta3",
-        "errada-3": "resposta4"
+        "titulo": "A equação 2 + 7 - 118 = 129 está errada, de quantas maneiras diferentes ela pode ser corrijida?.",
+        "correta": "3",
+        "errada-1": "1",
+        "errada-2": "2",
+        "errada-3": "5"
     },
     "2":{
-        "titulo": "titulo2",
-        "correta": "resposta1",
-        "errada-1": "resposta2",
-        "errada-2": "resposta3",
-        "errada-3": "resposta4"
+        "titulo": "Segundo o livro, o que devemos fazer quando não conseguimos achar de cara uma solução para um problema?.",
+        "correta": "Fazer uma pausa criativa.",
+        "errada-1": "Continuar pensando excessivamente até a ideia aparecer.",
+        "errada-2": "Ignorar o problema e esperar que ele se resolva por si só..",
+        "errada-3": "Pedir ajuda a várias pessoas simultaneamente para obter respostas imediatas.."
     },
     "3":{
-        "titulo": "",
-        "correta": "",
-        "errada-1": "",
-        "errada-2": "",
-        "errada-3": ""
+        "titulo": "Um fazendeiro tem dezessete ovelhas em um cercado. Todas fogem, menos nove. Quantas restam?.",
+        "correta": "Nove.",
+        "errada-1": "Dezessete.",
+        "errada-2": "Oito.",
+        "errada-3": "Dezenove."
     },
     "4":{
-        "titulo": "",
-        "correta": "",
-        "errada-1": "",
-        "errada-2": "",
-        "errada-3": ""
+        "titulo": "Segundo o livro, para o brainstorm ser eficiente, algumas regras basicas devem ser obedecidas, a primeira dessas regras é:.",
+        "correta": "Acolher e registrar toda e qualquer ideia, independentemente de quão louca seja.",
+        "errada-1": "Escolher todas as ideias, com excessão das que não são práticas ou eficientes.",
+        "errada-2": "Considerar toda ideia que seja contanto que ela não seja anti-lógica.",
+        "errada-3": "Selecionar meticusamente apenas ideias coerentes e com máxima praticidade, para assim adquirir mais eficiência."
     },
     "5":{
-        "titulo": "",
-        "correta": "",
-        "errada-1": "",
-        "errada-2": "",
-        "errada-3": ""
+        "titulo": "Há uma escada de cordas pendurada na borda de um barco perto do cais. Cada degrau tem 2 centímetros de espessura e o intervalo de um degrau para outro é de 18 centímetros. A maré está subindo a uma velocidade constante de 36 centímetros por hora. Quantos degraus estarão sob a água dentro de duas horas?.",
+        "correta": "Nenhuma das outras alternativas.",
+        "errada-1": "Três.",
+        "errada-2": "Cinco.",
+        "errada-3": "Quatro."
     },
     "6":{
-        "titulo": "",
-        "correta": "",
-        "errada-1": "",
-        "errada-2": "",
-        "errada-3": ""
+        "titulo": "Para um bom pensamento criativo é necessário:.",
+        "correta": "Esquecer da lógica apenas quando praticar o pensamento criativo.",
+        "errada-1": "Eliminar a lógica da vida, pois ela limita nosso pensamento criativo.",
+        "errada-2": "Evitar ambiguidades e ser mais prático.",
+        "errada-3": "Não cometer erros, pois os erros o afastam da inspiração."
     }
 }
